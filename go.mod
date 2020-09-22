@@ -1,4 +1,4 @@
-module github.com/operator-framework/operator-registry
+module github.com/igordcard/operator-registry
 
 require (
 	github.com/ghodss/yaml v1.0.0
